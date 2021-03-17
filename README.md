@@ -1,10 +1,8 @@
 # PE_satscan
 
-This repository includes the codes used for the study: "Identifying hidden Zika hotspots in Pernambuco, Brazil: 
-A spatial analysis".
+This repository includes the codes used for the study: "Identifying hidden Zika hotspots in Pernambuco, Brazil: A spatial analysis", by: Laís P Freitas, Rachel Lowe, Andrew E Koepp, Sandra A Valongueiro, Molly Dondero, Leticia J Marteleto
 
-Preprint: 
+Preprint: https://doi.org/10.1101/2021.03.15.21253657
 
 ## Abstract
-
-
+Northeast Brazil has the world's highest rate of Zika-related microcephaly. Yet, in this hard-hit region, traditional case counts of Zika cannot accurately describe Zika risk. Reporting of Zika cases only became mandatory after its association with microcephaly in neonates, when the Zika epidemic was already declining in the region. To advance the study of the Brazilian Zika epidemic and its impacts, we identified hotspots of Zika in Pernambuco state, Northeast Brazil, using Aedes-borne diseases (dengue, chikungunya and Zika) and microcephaly data. We used the Kulldorff's Poisson purely spatial scan statistic to detect low- and high-risk clusters and combined the results to identify the municipalities most affected by the Zika epidemic. Municipalities were classified as hotspots if they were part of any high-risk cluster, and classified according to a gradient of Zika burden during the epidemic, considering the strength of the evidence. In Pernambuco, officials confirmed 123,934 dengue cases, 167 Zika cases, and 32,983 chikungunya cases between 2014-2017, and 800 microcephaly cases between 2015-2017. We identified 26 Aedes-borne diseases clusters (11 high-risk), and 5 microcephaly cases clusters (3 high-risk). Combining the results, sixty-three out of 184 municipalities were identified as hotspots for Zika. The northeast of Pernambuco and the Sertão region were hit hardest by the Zika epidemic. The first is the most populous area, while the second has one of the highest rates of social and economic inequality in Brazil. The identification of Sertão as a Zika hotspot was only possible because the clusters results were combined. The under-reporting of acute infectious diseases is expected to be higher in poor areas. Therefore, using only Aedes-borne data does not correctly identify the high-risk areas. We successfully identified hidden Zika hotspots using a simple methodology combining Aedes-borne diseases and microcephaly information.
