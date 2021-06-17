@@ -7,7 +7,7 @@
 
 ## Last update: 8 March 2021
 
-## Preprint: 
+## Preprint: https://doi.org/10.1101/2021.03.15.21253657
 
 ## Objective: 
 # To identify hotspots of Zika in Pernambuco state, Northeast Brazil, using Aedes-borne diseases (dengue, chikungunya and Zika) 
