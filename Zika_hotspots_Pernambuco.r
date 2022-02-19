@@ -86,6 +86,7 @@ ssenv$.ss.params.OLD <-  ssenv$.ss.params
 ssenv$.ss.params <- readLines('template_satscan.txt')
 
 
+# Arboviral diseases ------------------------------------------------------
 # Dengue, Zika and Chikungunya --------------------------------------------
 
 ARQ <- 'dataPE.cas'
